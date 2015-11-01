@@ -1,0 +1,23 @@
+name: Stuart Gilfedder Portfolio 2015
+favicon: null
+layout_spectrum: 0.48434249917045236
+typography_spectrum: 0.29039545846171677
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.8332609650678933
+  lightness: 0.06508010788820684
+  saturation: 0.20696372142992914
+  rhythmicContrast: 0.4272431218996644
+purpose: []
