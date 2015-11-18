@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: Introduction
-datePublished: '2015-11-18T05:54:59.278Z'
-dateModified: '2015-11-01T22:34:12.674Z'
+datePublished: '2015-11-18T05:55:12.650Z'
+dateModified: '2015-11-18T05:54:59.278Z'
 title: Corporate Events
 sourcePath: _posts/2015-11-01-stuart-gilfedder-portfolio.md
 published: true
